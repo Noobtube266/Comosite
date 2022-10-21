@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class FillColor implements Shape{
+    //A leaf on the branch/ base
     //List of Shapes
     private List<Shape> shapes = new ArrayList<Shape>();
 

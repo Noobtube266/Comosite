@@ -1,5 +1,6 @@
 public class CompositePatternTest {
     public static void main(String args[]){
+        //Composite, contains leaves and provides the implementation of the base to the leaves
         Shape square = new Square();
         Shape rectangle = new Rectangle();
 
